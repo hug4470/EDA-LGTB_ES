@@ -10,10 +10,10 @@ Este repositorio contiene nuestro análisis exploratorio de datos (EDA) enfocado
 ## Hipótesis de Trabajo
 Partimos de las siguientes hipótesis:
 
-# Incremento de agresiones: Las agresiones contra el colectivo LGTBIQ+ han aumentado en España durante el período estudiado.
-# Variabilidad regional: Existen diferencias significativas en la incidencia de estos delitos entre las comunidades autónomas.
-# Subgrupos más vulnerables: Algunos subgrupos dentro del colectivo son más propensos a sufrir agresiones.
-# Impacto legislativo: Las modificaciones en la legislación pueden haber influido en la variación de los delitos de odio.
+1. Incremento de agresiones: Las agresiones contra el colectivo LGTBIQ+ han aumentado en España durante el período estudiado.
+2. Variabilidad regional: Existen diferencias significativas en la incidencia de estos delitos entre las comunidades autónomas.
+3. Subgrupos más vulnerables: Algunos subgrupos dentro del colectivo son más propensos a sufrir agresiones.
+4. Impacto legislativo: Las modificaciones en la legislación pueden haber influido en la variación de los delitos de odio.
 
 ##Dataset
 El análisis se basa en un conjunto de datos que incluye:
