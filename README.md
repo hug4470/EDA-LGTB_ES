@@ -1,3 +1,4 @@
+(Presentación en canva: https://www.canva.com/design/DAGTui2esqQ/Amo6gst5-cROGhHXFTS60g/edit)
 # Análisis de Agresiones LGTBIfóbicas en España (2014-2023)
 Este repositorio contiene nuestro análisis exploratorio de datos (EDA) enfocado en los delitos de odio contra el colectivo LGTBIQ+ registrados en España entre 2014 y 2023. Nuestro objetivo es estudiar la evolución de estos delitos a lo largo del tiempo y su distribución en las distintas comunidades autónomas, prestando especial atención a los subgrupos más vulnerables del colectivo.
 
